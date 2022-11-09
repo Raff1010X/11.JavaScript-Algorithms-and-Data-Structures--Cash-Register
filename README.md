@@ -1,6 +1,6 @@
-# freeCodeCamp JavaScript Algorithms and Data Structures certification
+# [freeCodeCamp JavaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
-## Cash Register project
+## [Cash Register project](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
 Working example: https://raff1010x.github.io/11.JavaScript-Algorithms-and-Data-Structures--Cash-Register/
 
